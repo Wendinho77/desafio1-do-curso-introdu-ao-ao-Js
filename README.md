@@ -1,13 +1,19 @@
-## HTML e CSS
+## Contador
 
-Projeto desenvolvido no curso: "Introdução a criação de websites com HTML5 e CSS3" da Digital Innovation One. 
+Projeto desenvolvido no curso: "Introdução ao JavaScript" da Digital Innovation One. 
 
 
-conhecimentos adquiridos:Estrutura básica, Semântica e Principais (tags,elementos e dimensões e alinhamento)
+Desafio: Contador
+Contador com botões de adicionar(incrementar) e subtrair(decrementar). 
+
+1) Implementar eventos usando addEventListner. Para não usar onClick.
+2) Desabilitar o botão incrementar quando count chegar a um determinado valor.
+negativo.
+
 
 
 ## Image: 
 
 
 
-<img src=".\bens\img\imagem.web.png" />
+<img src=".\assets\img\contador.png"  />
